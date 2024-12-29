@@ -23,7 +23,6 @@ public class SbapplicationApplication {
 	public PlatformTransactionManager transcation(MongoDatabaseFactory dbFactory)
 	{
 		return new MongoTransactionManager(dbFactory);
-
 	}
 
 	@Bean
