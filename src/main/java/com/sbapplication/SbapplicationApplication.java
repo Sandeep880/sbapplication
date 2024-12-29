@@ -27,7 +27,10 @@ public class SbapplicationApplication {
 
 	@Bean
 	public RestTemplate restTemplate() {
+
 		return new RestTemplate();
+
+
 	}
 
 
