@@ -1,0 +1,2 @@
+24-12-28 22:00:00.042 [scheduling-1] INFO  c.s.service.impl.UserRepositoryImpl - list of user  
+24-12-28 22:00:13.800 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  c.s.service.impl.EmailServiceImpl - Mail sent successfully 
